@@ -1,0 +1,3 @@
+C:/Users/Kirill/Desktop/otus-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kirill/Desktop/otus-cpp/cmake-build-debug/CMakeFiles/otus_cpp.dir
+C:/Users/Kirill/Desktop/otus-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
